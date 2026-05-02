@@ -17,7 +17,7 @@ cookies your browser uses — no third-party services involved.
 ### Install
 
 ```bash
-git clone https://github.com/<your-user>/social-publish.git
+git clone https://github.com/myounis1996/social-publish.git
 cd social-publish
 
 # Optional — only needed for the bundled TikTok signer:
