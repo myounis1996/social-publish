@@ -1,0 +1,20 @@
+{
+  "name": "social-publish",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Educational reference: Instagram Reels + TikTok web video upload flows in pure Node.js. Not for npm.",
+  "main": "index.js",
+  "scripts": {
+    "instagram": "node bin/instagram.js",
+    "tiktok": "node bin/tiktok.js",
+    "example:instagram": "node examples/instagram.js",
+    "example:tiktok": "node examples/tiktok.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "optionalDependencies": {
+    "playwright-core": "^1.40.0"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}

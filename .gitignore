@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.env
+.DS_Store
+*-cookies.json
+sample.mp4
+.idea
+package-lock.json
